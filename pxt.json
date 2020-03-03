@@ -1,7 +1,8 @@
 {
     "name": "Arcade",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "animation": "*"
     },
     "description": "",
     "files": [
